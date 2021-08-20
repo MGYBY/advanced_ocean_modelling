@@ -1,0 +1,13 @@
+FORTRAN CODE FOR EXERCISE 17
+
+The arrays C1, C2, and C3 represent the three independant Eulerian tracer fields.  Eddy viscosity/diffusivity are 2d arrays which are
+specified in the file "main.f95". 
+
+
+SCILAB SCRIPT FOR EXERCISE 17
+
+The reader may use scripts of previous exercises as templates for this one.
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

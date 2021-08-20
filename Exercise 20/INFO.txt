@@ -1,0 +1,15 @@
+FORTRAN CODE FOR EXERCISE 20
+
+Files named with the ending "S" are surface distributions; those with "V" are vertical transects. 
+
+
+SCILAB SCRIPTS FOR EXERCISE 20
+
+The script "Exercise 20a.sce" produces an animation of the surface density and flow fields. The script
+ "Exercise 20b.sce" produces an animation of density and transverse flow in a vertical cross-section cutting
+across the centre of the model domain. 
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

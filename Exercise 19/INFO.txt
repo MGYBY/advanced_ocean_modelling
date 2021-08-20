@@ -1,0 +1,13 @@
+FORTRAN CODE FOR EXERCISE 19
+
+Only the configuration of the upwelling scenario is provided. 
+
+
+SCILAB SCRIPT FOR EXERCISE 19
+
+Only a script doing an animation of the sea level & density field is provided.  Both properties are shown
+together in a single window using subplots.
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

@@ -1,0 +1,16 @@
+FORTRAN CODE FOR EXERCISE 10
+
+Note that the code includes particle tracking.
+
+SCILAB SCRIPTS FOR EXERCISE 10
+
+Two animation scripts are provided. "Exercise 10a.sce" produces an animation of the
+density field. "Exercise 10b.sce" produces an animation of Eulerian tracer concentration.
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+
+    
+

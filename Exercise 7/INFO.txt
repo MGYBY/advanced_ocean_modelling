@@ -1,0 +1,15 @@
+FORTRAN CODE FOR EXERCISE 7
+
+The sample code does only consider Scenario 1 of a continuously stratified fluid of a certain stability frequency.
+The author is confident that the reader can easily implement other initial density stratifications on his/her own.
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+
+
+
+
+    
+

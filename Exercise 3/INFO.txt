@@ -1,0 +1,19 @@
+FORTRAN CODE FOR EXERCISE 3
+
+The names of parameters and arrays follow closely those used in the book. 
+The author believes that, aided by comments, the simulation code is
+self-explanatory. 
+
+
+SCILAB SCRIPT FOR EXERCISE 3   
+
+Two alternative animation scripts are provided. The first one shows the evolution
+of equivalent vertical displacements of pressure surfaces, the second one that of
+the dynamic pressure field.
+
+
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

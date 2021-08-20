@@ -1,0 +1,18 @@
+FORTRAN CODE FOR EXERCISE 13
+
+The bottom inclination "alpha" is specified in "main.for" and used in the "dyn" 
+subroutine of the file "sub.f95". 
+    
+
+SCILAB SCRIPT FOR EXERCISE 13
+
+The graph is rotated in the script via the lines:
+
+a.view="3d";
+a.rotation_angles=[0 275];
+
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

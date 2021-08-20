@@ -1,0 +1,17 @@
+FORTRAN CODE FOR EXERCISE 9
+
+The float prediction scheme is included in the "main.f95" file.
+
+SCILAB SCRIPTS FOR EXERCISE 9
+
+Two animation scripts are provided. "Exercise 9a.sce" produces an animation of tracer concentration
+with superimposed density contours. 
+
+"Exercise 9b.sce" produces an animation of float locations. Density contours are added to this.
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+
+    
+

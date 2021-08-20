@@ -1,0 +1,13 @@
+FORTRAN CODE FOR EXERCISE 24
+
+
+SCILAB SCRIPTS FOR EXERCISE 24
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

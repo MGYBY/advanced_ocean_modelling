@@ -1,0 +1,12 @@
+FORTRAN CODE FOR EXERCISE 18
+
+Only the configuration of the upwelling scenario is provided. 
+
+
+SCILAB SCRIPT FOR EXERCISE 18
+
+Only a script doing an animation of the density field is provided.
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

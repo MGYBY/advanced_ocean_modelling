@@ -1,0 +1,15 @@
+FORTRAN CODE FOR EXERCISE 5
+
+The bathymetry can be later revealed in the density distribution via choice of a certain
+density value for dry grid points which do not enter the prediction loops.
+
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+
+
+
+    
+

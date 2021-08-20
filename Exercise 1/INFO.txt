@@ -1,0 +1,16 @@
+FORTRAN CODE FOR EXERCISE 1
+
+The "MODE" parameter selects from different settings for vertical eddy viscosities in the subroutine EDDY which
+can be found in the file "sub.f95".
+
+SCILAB SCRIPT FOR EXERCISE 1   
+
+The FORTRAN code needs to be compiled and run first before the SciLab script can find the input file needed for the animation.
+Some parameters of the SciLab script may require fine tuning dependent on the screen resolution of your computer.  
+
+
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

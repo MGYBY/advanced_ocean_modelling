@@ -1,0 +1,17 @@
+FORTRAN CODE FOR EXERCISE 14
+
+The code uses a forcing value of eta_river of 0.5 m.  The reader is encouraged to
+test other values.
+
+The turbulence closure scheme is formulated in the "eddy" subroutine found in the
+file "sub.f95". The scalar array "c1" is used to predict age distribution.
+    
+SCILAB SCRIPT FOR EXERCISE 14
+
+The script "Exercise 14a.sce" produces an animation of the density and flow fields. 
+The second script "Exercise 14b.sce" creates an animation of the evolution of water age
+together with the tidally averaged flow field. 
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

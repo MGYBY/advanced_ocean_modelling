@@ -1,0 +1,18 @@
+FORTRAN CODE FOR EXERCISE 11
+
+Density is calculated from the equation of state formulated as a function in file "sub.f95".
+The code also includes particle tracking.
+
+SCILAB SCRIPTS FOR EXERCISE 11
+
+The scripts "Exercise 11a.sce","Exercise 11b.sce", and "Exercise 11c.sce", respectively,
+produce animations of the temperature, salinity and density fields.
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+
+
+    
+

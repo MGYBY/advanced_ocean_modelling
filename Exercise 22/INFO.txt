@@ -1,0 +1,18 @@
+FORTRAN CODE FOR EXERCISE 22
+
+In a first step, the reader has to create a bathymetry map stored in a file called "topo.dat" that is needed for the simulation code.
+This is done with the program "BathCreator.f95".
+
+The simulation code produces three different outputs. Files with the ending "S" refer to surface distributions, those with "B" to bottom
+distributions, and those with "V" to vertical transects.
+
+SCILAB SCRIPTS FOR EXERCISE 22
+
+The script "Bathy.sce" produces a graph of the bathymetry. The script "Exercise 22a.sce" creates an animation of surface and bottom
+Eulerian concentration fields together with the lateral velocity field. The svript "Exercise 22b.sce" produces an animation of the density
+field and transverse flow in a vertical transect cutting across the middle of the strait.
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.

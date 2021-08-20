@@ -1,0 +1,12 @@
+FORTRAN CODE FOR EXERCISE 21
+
+
+
+SCILAB SCRIPTS FOR EXERCISE 21
+
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+

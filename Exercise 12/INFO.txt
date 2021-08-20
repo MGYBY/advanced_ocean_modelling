@@ -1,0 +1,9 @@
+FORTRAN CODE AND SCILAB SCRIPTS FOR EXERCISE 12
+
+Except for a modification of the initial temperature and salinity fields (that the
+reader can easily implement), the computer code and animation scripts are the same as
+for the previous exercise. 
+
+   
+------------------------------------------------------------------------------------------
+Please reference this book if you use my model codes for scientific research!

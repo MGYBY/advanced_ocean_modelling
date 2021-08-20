@@ -1,0 +1,25 @@
+FORTRAN CODE FOR EXERCISE 6
+
+The random-number generator is formulated in another external module in the file "random.f95". This file needs to be compiled and embedded
+in the executable as well. As before, this is done in two steps.
+
+Step 1: g95 -c param.f95 sub.f95 random.f95
+Step 2: g95 -o ex6.exe main.f95 param.o sub.o random.o
+
+ 
+SCILAB SCRIPT FOR EXERCISE 6
+
+The "champ" function is used to add flow vectors to the plot. Showing this at all (101 times 51 = many) location would result in tiny arrows
+that can only be spotted with difficulty (or requires a magnifying glass).  Instead of this, an averaging procedure is included in order to
+reduce the number of arrows shown.  
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+
+
+
+
+    
+

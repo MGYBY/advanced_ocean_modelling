@@ -1,0 +1,17 @@
+FORTRAN CODE FOR EXERCISE 8
+
+The code already contains a prediction of Eulerian tracer concentration needed for Exercise 9.
+The random-number generator is formulated in another subroutine contains in the file "random.f95".
+This file must be included in the compiling procedure.
+
+Note that Courant numbers for the density prediction are the same as for the 
+concentration prediction and, therefore, do not need to be calculated twice.
+
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
+
+    
+

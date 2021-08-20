@@ -1,0 +1,21 @@
+FORTRAN CODE FOR EXERCISE 4
+
+This code includes a full implementation of density advection and the nonlinear terms.
+To this end, the TVD scheme is formulated in general form as a subroutine with an
+input array called "B".  Courant numbers are calculated in the "dyn" subroutine prior
+to calling this routine.  The limiting function is formulated as a FORTRAN function
+named "PSI".  Variable bathymetry is not implemented in this code, but it should be easy
+for the reader to do this, if wanted.  
+
+
+SCILAB SCRIPT FOR EXERCISE 4
+
+When using variable bathymetry, the reader should try to add a mask of this bathymetry
+via use of the "xfpoly" function.  Tip of the day: You can look at individual frames
+of the animation by typing "for n = 40".
+    
+
+
+
+------------------------------------------------------------------------------------------
+Please reference this book if you employ model codes of the book for scientific research.
